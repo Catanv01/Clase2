@@ -35,3 +35,13 @@ a:hover{
     padding: 10px;
     border-radius: 10px;
 }
+#inicio{
+    margin: 5%;
+    text-align: center;
+}
+#nosotros{
+    text-align: center;
+}
+.contenedor{
+    margin-top: 5%;
+}

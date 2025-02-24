@@ -45,3 +45,48 @@ a:hover{
 .contenedor{
     margin-top: 5%;
 }
+.productos{
+    background-color: lightgray;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    box-sizing: 70%;
+    margin: 50px;
+    border-radius: 20px;
+}
+.productos img{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.productos button{
+    background-color: #242697;
+    border-radius: 30px;
+    height: 40px;
+    width: 200px;
+    color: white;
+    font-weight: bold;
+}
+.form{
+    text-align: center;
+}
+.form input{
+    border-radius: 15px;
+    height: 40px;
+    width: 500px;
+}
+.form textarea{
+    border-radius: 15px;
+    height: 90px;
+    width: 500px;
+}
+.form button{
+    font-size: 20px;
+    background-color: #63b849;
+    border-radius: 15px;
+    height: 40px;
+    width: 500px;
+    color: white;
+    font-weight: bold;
+}
